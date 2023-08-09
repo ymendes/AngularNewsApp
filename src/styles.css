@@ -1,0 +1,9 @@
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+body {
+    padding: 10px;
+    background:rgb(250, 248, 248);
+    max-width: 600px;
+    margin: auto auto;
+}
+
+
